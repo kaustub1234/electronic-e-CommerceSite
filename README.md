@@ -1,3 +1,5 @@
+# About
+it is an SmartElectronicStore, which is just like any e-commerce website with add on functionalities of using sentimental analysis of artificial intelligence for making admin analysis easy and build customer relationship management
 # Install Dependencies
 
 **For Backend** - `npm i`
